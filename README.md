@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## About this project?
@@ -34,3 +35,7 @@ Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/code\_lone/](https://www.instagram.com/code_lone/)
 
+=======
+# Fork-N-Spoon-Restro
+Fork N Spoon Restro is your ultimate online food ordering platform, delivering your favorite restaurant dishes right to your doorstep. We connect you with local eateries, making it easy to enjoy delicious meals at home. Experience convenient, home dining with Fork N Spoon Restro!
+>>>>>>> c3b1525b7e70c56bc12d1b723e2194bd521605b5
